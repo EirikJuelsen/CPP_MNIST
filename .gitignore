@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+/.vs
+/bin
+/Machine_Learning_MNIST/t10k-images.idx3-ubyte
+/Machine_Learning_MNIST/t10k-labels.idx1-ubyte
+/Machine_Learning_MNIST/train-images.idx3-ubyte
+/Machine_Learning_MNIST/train-labels.idx1-ubyte
+/out/build/x64-Debug
+/CMakeLists.txt
